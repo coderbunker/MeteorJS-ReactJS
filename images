@@ -1,0 +1,5 @@
+##images
+---
+This project is made with ReactJS.
+<br />
+It lists out arrays of images from imgur.com and beside the pic, there's a title and description for each pic.
